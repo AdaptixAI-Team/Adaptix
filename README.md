@@ -1,6 +1,5 @@
 
 # AdaptixAI 🚀  
-(adaptix.PNG)
 [![PyPI](https://img.shields.io/pypi/v/mcpagentai.svg)](https://pypi.org/project/mcpagentai/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/mcpagentai.svg)](https://pypi.org/project/mcpagentai/)
 [![License](https://img.shields.io/pypi/l/mcpagentai.svg)](https://github.com/mcpageants-ai/mcpagentai/blob/main/LICENSE)
